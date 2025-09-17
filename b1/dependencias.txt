@@ -1,0 +1,9 @@
+################## dependencias ###########################################################
+
+screen
+redis
+sqlite3
+php -> php-redis, php-curl, php-sqlite3
+
+
+qualquer duvida chame @BOTYSUPORTE
