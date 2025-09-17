@@ -8,7 +8,7 @@
 
 include __DIR__.'/includes/includes.php';
 
-$tlg = new TelegramTools (8489171742:AAHXEkQdkfmKSKT6zsyWaMw8XeZtNeiA3bs);
+$tlg = new TelegramTools (TOKEN_BOT);
 $ApiPix = new GerenciaNet([
 	'client_id' => CLIENT_ID,
 	'client_secret' => CLIENT_SECRET,
