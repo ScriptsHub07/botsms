@@ -6,7 +6,7 @@
 *
 */
 
-include __DIR__.'/includes/includes.php';
+include __DIR__.'includes.php';
 
 $tlg = new TelegramTools (TOKEN_BOT);
 $ApiPix = new GerenciaNet([
